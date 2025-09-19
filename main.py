@@ -14,4 +14,6 @@ if __name__ == '__main__':
     print_hi('World') # Initialization to show to the user
     print_hi('nobody')
 
+    print_hi('class')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
