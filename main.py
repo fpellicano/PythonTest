@@ -15,4 +15,6 @@ if __name__ == '__main__':
     print_hi('nobody')
     print_hi("Hello From YASH Professor")
 
+    print_hi('class')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
