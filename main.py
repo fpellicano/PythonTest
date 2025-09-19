@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('World') # Initialization to show to the user
     print_hi('nobody')
+    print_hi("Hello From YASH Professor")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
